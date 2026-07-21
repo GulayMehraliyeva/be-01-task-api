@@ -1,6 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TaskApi.Data;
 using TaskApi.Models;
+
+using Microsoft.EntityFrameworkCore;
+using TaskApi.Data;
+using System.Threading.Tasks;
 
 namespace TaskApi.Controllers
 {
@@ -8,6 +11,13 @@ namespace TaskApi.Controllers
     [Route("")]
     public class TaskController : ControllerBase
     {
+        private readonly TaskDbContext _context;
+
+        public TaskController(TaskDbContext context)
+        {
+            _context = context;
+        }
+
         [HttpGet]
         public IActionResult Root()
         {
@@ -32,15 +42,16 @@ namespace TaskApi.Controllers
         }
 
         [HttpGet("tasks")]
-        public IActionResult GetTasks()
+        public async Task<IActionResult> GetTasks()
         {
-            return Ok(TaskRepository.Tasks);
+            var tasks = await _context.Tasks.ToListAsync();
+            return Ok(tasks);
         }
 
         [HttpGet("tasks/{id}")]
-        public IActionResult GetTask(int id)
+        public async Task<IActionResult> GetTask(int id)
         {
-            var task = TaskRepository.Tasks.FirstOrDefault(x => x.Id == id);
+            var task = await _context.Tasks.FindAsync(id);
 
             if(task == null)
             {
@@ -50,11 +61,13 @@ namespace TaskApi.Controllers
                 });
             }
 
+
+
             return Ok(task);
         }
 
         [HttpPost("tasks")]
-        public IActionResult CreateTask(CreateTaskRequest request)
+        public async Task<IActionResult> CreateTask(CreateTaskRequest request)
         {
             if(string.IsNullOrEmpty(request.Title))
             {
@@ -64,24 +77,26 @@ namespace TaskApi.Controllers
                 });
             }
 
-            int nextId = TaskRepository.Tasks.Max(x => x.Id) + 1;
-
             var task = new TaskItem 
             {
-                Id = nextId,
                 Title = request.Title,
                 Done = false
             };
 
-            TaskRepository.Tasks.Add(task);
+            _context.Tasks.Add(task);
 
-            return StatusCode(201, task);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(
+                nameof(GetTask),
+                new { id = task.Id },
+                task);
         }
 
         [HttpPut("tasks/{id}")]
-        public IActionResult UpdateTask(int id, UpdateTaskRequest request)
+        public async Task<IActionResult> UpdateTask(int id, UpdateTaskRequest request)
         {
-            var task = TaskRepository.Tasks.FirstOrDefault(x => x.Id == id);
+            var task = await _context.Tasks.FindAsync(id);
 
             if(task == null)
             {
@@ -102,13 +117,15 @@ namespace TaskApi.Controllers
             task.Title = request.Title;
             task.Done = request.Done;
 
+            await _context.SaveChangesAsync();
+
             return Ok(task);
         }
 
         [HttpDelete("tasks/{id}")]
-        public IActionResult DeleteTask(int id)
+        public async Task<IActionResult> DeleteTask(int id)
         {
-            var task = TaskRepository.Tasks.FirstOrDefault(x => x.Id == id);
+            var task = await _context.Tasks.FindAsync(id);
 
             if (task == null)
             {
@@ -118,7 +135,9 @@ namespace TaskApi.Controllers
                 });
             }
 
-            TaskRepository.Tasks.Remove(task);
+            _context.Remove(task);
+
+            await _context.SaveChangesAsync();
 
             return NoContent();
         }

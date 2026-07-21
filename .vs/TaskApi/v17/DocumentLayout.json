@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|c:\\users\\gulay\\desktop\\backendengineering_assignments\\taskapi\\taskapi\\models\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\models\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|c:\\users\\gulay\\desktop\\backendengineering_assignments\\taskapi\\taskapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|c:\\users\\gulay\\desktop\\backendengineering_assignments\\taskapi\\taskapi\\data\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\data\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|c:\\users\\gulay\\desktop\\backendengineering_assignments\\taskapi\\taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|c:\\users\\gulay\\desktop\\backendengineering_assignments\\taskapi\\taskapi\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|c:\\users\\gulay\\desktop\\backendengineering_assignments\\taskapi\\taskapi\\migrations\\20260721102655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\migrations\\20260721102655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|c:\\users\\gulay\\desktop\\backendengineering_assignments\\taskapi\\taskapi\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|c:\\users\\gulay\\desktop\\backendengineering_assignments\\taskapi\\taskapi\\models\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\models\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|c:\\users\\gulay\\desktop\\backendengineering_assignments\\taskapi\\taskapi\\data\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\data\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{106740AF-2C7E-4A99-A078-1C0D82E4732D}|TaskApi\\TaskApi.csproj|c:\\users\\gulay\\desktop\\backendengineering_assignments\\taskapi\\taskapi\\taskapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,86 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UpdateTaskRequest.cs",
-              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Models\\UpdateTaskRequest.cs",
-              "RelativeDocumentMoniker": "TaskApi\\Models\\UpdateTaskRequest.cs",
-              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Models\\UpdateTaskRequest.cs",
-              "RelativeToolTip": "TaskApi\\Models\\UpdateTaskRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T08:03:40.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "TaskApi\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "TaskApi\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAcwHgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T06:47:21.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Program.cs",
-              "RelativeDocumentMoniker": "TaskApi\\Program.cs",
-              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Program.cs",
-              "RelativeToolTip": "TaskApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T07:04:46.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Data\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "TaskApi\\Data\\TaskRepository.cs",
-              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Data\\TaskRepository.cs",
-              "RelativeToolTip": "TaskApi\\Data\\TaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T06:44:08.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Models\\TaskItem.cs",
-              "RelativeDocumentMoniker": "TaskApi\\Models\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Models\\TaskItem.cs",
-              "RelativeToolTip": "TaskApi\\Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T06:38:25.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskApi",
-              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\TaskApi.csproj",
-              "RelativeDocumentMoniker": "TaskApi\\TaskApi.csproj",
-              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\TaskApi.csproj",
-              "RelativeToolTip": "TaskApi\\TaskApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-21T06:37:55.137Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
@@ -149,6 +83,123 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "TaskApi\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T10:28:15.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260721102655_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Migrations\\20260721102655_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Migrations\\20260721102655_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Migrations\\20260721102655_InitialCreate.cs",
+              "RelativeToolTip": "TaskApi\\Migrations\\20260721102655_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T10:26:55.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "TaskApi\\Data\\TaskDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T10:24:12.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Program.cs",
+              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Program.cs",
+              "RelativeToolTip": "TaskApi\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T07:04:46.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Models\\UpdateTaskRequest.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Models\\UpdateTaskRequest.cs",
+              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Models\\UpdateTaskRequest.cs",
+              "RelativeToolTip": "TaskApi\\Models\\UpdateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:03:40.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskApi\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwIkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T06:47:21.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Data\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Data\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Data\\TaskRepository.cs",
+              "RelativeToolTip": "TaskApi\\Data\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T06:44:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskApi\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T06:38:25.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskApi.csproj",
+              "DocumentMoniker": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\TaskApi.csproj",
+              "RelativeDocumentMoniker": "TaskApi\\TaskApi.csproj",
+              "ToolTip": "C:\\Users\\gulay\\Desktop\\BackendEngineering_Assignments\\TaskApi\\TaskApi\\TaskApi.csproj",
+              "RelativeToolTip": "TaskApi\\TaskApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-21T06:37:55.137Z",
+              "EditorCaption": ""
             }
           ]
         }
